@@ -1,4 +1,4 @@
-## Olá! Meu nome é Lucas e seja bem vindo ao meu perfil 😆
+## Hello, welcome to my profile! 😆
 
 <div align="left">
   <a href="https://github.com/lucas4njos">
