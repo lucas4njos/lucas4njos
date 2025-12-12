@@ -10,7 +10,7 @@
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Lucas-powerapps" height="30" width="40" src="https://store-images.s-microsoft.com/image/apps.47429.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.44c95864-02a2-4f02-b16e-5b92d03974a1?h=210">
-  <img align="center" alt="Lucas-powerautomate" height="30" width="40" src="https://images.seeklogo.com/logo-png/52/1/microsoft-power-automate-logo-png_seeklogo-522770.png">
+  <img align="center" alt="Lucas-powerautomate" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg">
 </div>
 
 #
